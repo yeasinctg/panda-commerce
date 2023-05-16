@@ -4,7 +4,7 @@
 .orange-bg{
     background-color: #fceae8;
     border-radius: 10px;
-    box-shadow: 30px 20px 20px orange;
+    box-shadow: 10px 15px 15px gray;
 }
 .carousel-item{
     padding: 20px 40px;
@@ -19,4 +19,43 @@
     border-radius: 10px;
     padding: 9px 20px;
     cursor: pointer;
+}
+.cat1{
+    background-color: orange;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 15px 10px 10px green;
+}
+.cat2{
+    background-color: rgb(237, 13, 5);
+    padding: 10px 30px;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 15px 10px 10px gray;
+}
+.cat3{
+    background-color: blue;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 15px 10px 10px red;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightcyan;
+}
+.card-footer{
+    color: white;
+    border-top: none;
+}
+#Subscribe{
+    height: 300px;
+}
+footer{
+   text-align: center;
 }
